@@ -1,2 +1,1 @@
-# public
-Place for modules.tf questions and issues
+This is a place for modules.tf questions and issues.
