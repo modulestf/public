@@ -1,1 +1,3 @@
-This is a place for modules.tf questions and issues.
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/betajob.modulestf?color=5c4ee5&label=Latest%20version)](https://marketplace.visualstudio.com/items?itemName=betajob.modulestf) [![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/betajob.modulestf?color=5c4ee5)](https://marketplace.visualstudio.com/items?itemName=betajob.modulestf) [![@modulestf](https://img.shields.io/twitter/follow/modulestf?style=social)](https://twitter.com/modulestf)
+
+This is a place for questions and issues related to modules.tf - Visual Studio Code extension for Terraform.
